@@ -1,0 +1,2 @@
+
+rootProject.name = "Kotlin_Practice_Project_5_Saving_Student_Marks_with_SQLite"
